@@ -6,13 +6,13 @@ function FormLogin() {
            <form action="http://localhost:8080/apiToken/login" method="post">
                 <div>
                     <label>
-                        Username
+                        Username : 
                         <input type="text" name="username" id="username"/>
                     </label>
                 </div>
                 <div>
                     <label>
-                        Password
+                        Password : 
                         <input type="password" name="password" id="password"/>
                     </label>
                 </div>
